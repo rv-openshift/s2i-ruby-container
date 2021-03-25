@@ -1,4 +1,4 @@
-FROM openshift/base-centos7
+FROM base-centos7
 
 # This image provides a Ruby 2.0 environment you can use to run your Ruby
 # applications.
